@@ -1,0 +1,1 @@
+A program to demonstrate how to get single records from db by using queryForObject method:
